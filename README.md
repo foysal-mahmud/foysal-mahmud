@@ -24,7 +24,6 @@
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/cpp.png" alt="C++" width="50" height="50"/> </a>&nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/c.png" alt="C" width="50" height="50"/> </a>&nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/python.png" alt="Python" width="50" height="50"/> </a> &nbsp;
-  <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/js.png" alt="Javascript" width="50" height="50"/> </a> &nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/divide.png" alt="divide" height="50"/> </a> &nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/spring.png" alt="Spring Framework" width="75" height="60"/> </a>
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/django.png" alt="Django" width="70" height="45"/> </a>
