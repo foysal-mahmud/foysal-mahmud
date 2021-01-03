@@ -35,7 +35,6 @@
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/divide.png" alt="divide" height="50"/> </a> &nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/bootstrap.png" alt="BootStrap" width="50" height="50"/> </a> &nbsp;
   <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/html.png" alt="HTML5" width="40" height="50"/> </a> &nbsp;
-  <a href="#" target="_blank"> <img src="https://github.com/foysal-mahmud/foysal-mahmud/blob/main/Logos/css.png" alt="CSS3" width="40" height="50"/> </a> &nbsp;
 
 </p>
 
