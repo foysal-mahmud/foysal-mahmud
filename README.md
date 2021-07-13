@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Foysal Mahmud</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 Framework: **Spring, Spring boot, Hibernate, React js, Django**
+- 🌱 Framework and Library: **React js, React hook, Spring, Spring boot, Hibernate, Laravel, Django**
 
 - 👨‍💻 All of my projects are available at [https://foysal-mahmud.github.io/cv/#project](https://foysal-mahmud.github.io/cv/#project)
 
-- 📫 How to reach me **foysalmahmud.csebu@gmail.com**
+- 📫 How to reach me **foysalmahmud.cse28@gmail.com**
 
 - 📄 Know about my experiences [https://foysal-mahmud.github.io/cv/Foysal_Mahmud_CV.pdf](https://foysal-mahmud.github.io/cv/Foysal_Mahmud_CV.pdf)
 
