@@ -15,7 +15,7 @@
  🔰 Skills: TypeScript, React js, Next js, Node/Express js.
     
 ------------------------------------------------------------------
-- 📫 How to reach me **foysalmahmud.cse28@gmail.com**
+- 📫 How to reach me **foysalmahmud.engineer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
