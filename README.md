@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=F11A60&center=true&random=false&width=700&height=100&lines=Welcome+To+Foysal+Mahmud+Github+Profile)](https://git.io/typing-svg)
-## Hey 👋, This is Foysal Mahmud
+### Hey 👋, This is Foysal Mahmud
 
-## 📫 Contacts:
+## 🏯 Work Experience:
+**BJIT Limited** (website: https://bjitgroup.com) <br>
+**SOFTWARE ENGINEER** [April 2021 ‑ Present] (3 years+) <br><br>
+𝐴𝑏𝑜𝑢𝑡 𝐵𝐽𝐼𝑇: **BJIT** has established 8 global branches in Japan, U.S.A, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh with 750+ skilled engineers and developers working in offshore, onshore and nearshore teams. BJIT excels at providing IT solutions to global industries.
+
+### 📫 Contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foysalmahmud.swe@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foysal-mahmud)
@@ -10,19 +14,24 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
 
-<h3 align="left"> 💻 About: </h3>
 
-    ✏️ As a highly motivated Full Stack Developer with 𝟯+ 𝘆𝗲𝗮𝗿𝘀 of professional experience, 
-    I specialize in creating responsive and dynamic web applications using 𝐑𝐞𝐚𝐜𝐭 𝐣𝐬, 𝐍𝐞𝐱𝐭 𝐣𝐬 on the frontend 
-    and 𝐍𝐨𝐝𝐞 𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐣𝐬 on the backend. With a strong foundation in HTML, CSS, and 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 
-    I have a keen eye for detail and a passion for delivering exceptional user experiences. 
-    I enjoy working collaboratively with cross-functional teams to develop innovative solutions that 
-    meet business objectives and exceed customer expectations. 
+## 💻 About Myself:
+✏️ **3 years+** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
+✏️ Experienced in designing large-scale Development of websites using Atomic Design Principle, Block Element Modifier(BEM) method and Base Case Domain(BCD) methods. <br>
+✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing and Reducing complexity. <br>
+✏️ API implementation with proper architecture ensures scalability and maintainability of the codebase. <br>
+🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
+📧 If you're looking for a skilled developer who can handle both frontend and backend development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
+
     
-    If you're looking for a skilled developer who can handle both frontend and backend development, 
-    and thrives in a fast-paced, agile environment, I'd love to connect!
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
  [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1dTyOdBIqt6rlvxAJQB8UXPf1N5koT64P/view?usp=drivesdk) 
+
+ ## 🎓 Education:
+ **University of Barishal** <br>
+ 𝐵.𝑆𝑐. 𝑖𝑛 𝐶𝑂𝑀𝑃𝑈𝑇𝐸𝑅 𝑆𝐶𝐼𝐸𝑁𝐶𝐸 𝐴𝑁𝐷 𝐸𝑁𝐺𝐼𝑁𝐸𝐸𝑅𝐼𝑁𝐺 <br>
+ 𝙲𝙶𝙿𝙰: **3.72** / 4.00
+ Graduation: **March - 2021**
 
  ## 🔰 Technical Skills:
  #### 🔖 Programming Language:
@@ -64,4 +73,19 @@
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+  ## 📜 Vendor Certification:
+  **AWS Certified Cloud Practitioner** <br>
+  𝐼𝑠𝑠𝑢𝑒𝑑 𝑏𝑦: Amazon Web Services (AWS) <br>
+  𝐶𝑟𝑒𝑑𝑒𝑛𝑡𝑖𝑎𝑙 𝐼𝐷: [**4GD7TXVCYNV118SJ**](https://www.credly.com/badges/93ca5f8e-f04d-4281-9727-2c0796355752) <br>
+  𝐷𝑎𝑡𝑒: 𝗔𝘂𝗴𝘂𝘀𝘁 - 𝟮𝟬𝟮𝟮 <br><br>
+  
+  
+  **Scrum Team Member Accredited Certification™** <br>
+  𝐼𝑠𝑠𝑢𝑒𝑑 𝑏𝑦:  International Scrum Institute™ (Scrum Institute) <br>
+  𝐶𝑟𝑒𝑑𝑒𝑛𝑡𝑖𝑎𝑙 𝐼𝐷: [**84894659916870**](https://www.scrum-institute.org/badges/84894659916870) <br>
+  𝐷𝑎𝑡𝑒: 𝗝𝘂𝗹𝘆 - 𝟮𝟬𝟮𝟭 <br><br>
+
+  > [!NOTE]
+> I cannot disclose the technology or business requirements for my projects as they are proprietary to **BJIT**.
 
