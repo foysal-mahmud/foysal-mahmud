@@ -18,9 +18,9 @@
 ## 💻 About Myself:
 ✏️ **3 years+** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
 🚀 _Highly skilled and experienced_ in **React.js** and **Next.js** project development. <br>
+📮 _API_ creation in **Node js** and **Express js** with proper architecture ensures scalability and maintainability of the codebase.
 ✏️ Experienced in designing large-scale Development of websites using Atomic Design Principle, Block Element Modifier(BEM) method and Base Case Domain(BCD) methods. <br>
 ✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing and Reducing complexity. <br>
-✏️ API implementation with proper architecture ensures scalability and maintainability of the codebase. <br>
 🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
 📧 If you're looking for a skilled developer who can handle both frontend and backend development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
 
