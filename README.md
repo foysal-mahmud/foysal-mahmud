@@ -22,7 +22,7 @@
 ✏️ Experienced in designing large-scale Development of websites using Atomic Design Principle, Block Element Modifier(BEM) method and Base Case Domain(BCD) methods. <br>
 ✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing and Reducing complexity. <br>
 🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
-📧 If you're looking for a skilled developer who can handle both frontend and backend development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
+📧 If you're looking for a skilled developer who can handle both _Frontend_ and _Backend_ development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
 
     
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
