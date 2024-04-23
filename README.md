@@ -91,3 +91,6 @@
   > [!NOTE]
 > I cannot disclose the technology or business requirements for my projects as they are proprietary to **BJIT**.
 
+> [!IMPORTANT]  
+> 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
+> Please note that my GitHub profile may appear empty or lacking in activity. This is primarily due to the fact that my current company, **BJIT**, utilizes different **GitHub** and **GitLab** accounts, which are associated with their _email address_. Additionally, for certain projects, we utilize BJIT's internal *Git-Gerrit* for source code management to ensure security and compliance.
