@@ -2,7 +2,7 @@
 
 ## 🏯 Work Experience:
 **BJIT Limited** (website: https://bjitgroup.com) <br>
-**SOFTWARE ENGINEER** [April 2021 ‑ Present] (3 years+) <br><br>
+**SENIOR SOFTWARE ENGINEER** [April 2021 ‑ Present] (3 years+) <br><br>
 𝐴𝑏𝑜𝑢𝑡 𝐵𝐽𝐼𝑇: **BJIT** has established 8 global branches in Japan, U.S.A, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh with 750+ skilled engineers and developers working in offshore, onshore and nearshore teams. BJIT excels at providing IT solutions to global industries.
 
 ### 📫 Contacts:
