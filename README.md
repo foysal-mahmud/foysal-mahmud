@@ -26,7 +26,7 @@
 
     
 ###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DYDQ0C_TvYmsxGmKWDmawcdrYY_UOf0H/view) 
+ [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Xy9NieuSQPKC571dJGiKLyHHs6pzrr4c/view?usp=sharing) 
 
  ## 🎓 Education:
  **University of Barishal** <br>
