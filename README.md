@@ -2,7 +2,7 @@
 
 ## 🏯 Work Experience:
 **BJIT Limited** (website: https://bjitgroup.com) <br>
-**SENIOR SOFTWARE ENGINEER** [April 2021 ‑ Present] (3 years+) <br><br>
+**SENIOR SOFTWARE ENGINEER** [April 2021 ‑ Present] (4 years+) <br><br>
 𝐴𝑏𝑜𝑢𝑡 𝐵𝐽𝐼𝑇: **BJIT** has established 8 global branches in Japan, U.S.A, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh with 750+ skilled engineers and developers working in offshore, onshore and nearshore teams. BJIT excels at providing IT solutions to global industries.
 
 ### 📫 Contacts:
@@ -16,7 +16,7 @@
 
 
 ## 💻 About Myself:
-✏️ **3 years+** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
+✏️ **4 years+** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
 🚀 _Highly skilled and experienced_ in **React.js** and **Next.js** project development. <br>
 📮 _API_ creation in **Node js** and **Express js** with proper architecture ensures scalability and maintainability of the codebase. <br>
 ✏️ Experienced in designing large-scale Development of websites using Atomic Design Principle, Block Element Modifier(BEM) method and Base Case Domain(BCD) methods. <br>
