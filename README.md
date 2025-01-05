@@ -2,7 +2,7 @@
 
 ## 🏯 Work Experience:
 **BJIT Limited** (website: https://bjitgroup.com) <br>
-**SENIOR SOFTWARE ENGINEER** [April 2021 ‑ Present] (4 years+) <br><br>
+**SENIOR SOFTWARE ENGINEER** [April 2021 ‑ Present]  $${\color{orange} (4-Years) }$$ <br><br>
 𝐴𝑏𝑜𝑢𝑡 𝐵𝐽𝐼𝑇: **BJIT** has established 8 global branches in Japan, U.S.A, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh with 750+ skilled engineers and developers working in offshore, onshore and nearshore teams. BJIT excels at providing IT solutions to global industries.
 
 ### 📫 Contacts:
@@ -15,23 +15,35 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
 
 
-## 💻 About Myself:
-✏️ **4 years+** of _Professional Experience_ in creating responsive and dynamic web applications. <br>
-🚀 _Highly skilled and experienced_ in **React.js** and **Next.js** project development. <br>
-📮 _API_ creation in **Node js** and **Express js** with proper architecture ensures scalability and maintainability of the codebase. <br>
-✏️ Experienced in designing large-scale Development of websites using Atomic Design Principle, Block Element Modifier(BEM) method and Base Case Domain(BCD) methods. <br>
-✏️ Pixel Perfect designing for Page development using built-in components, Bug fixing and Reducing complexity. <br>
-🤝 With a wealth of experience, I am not only adept at developing projects from scratch but also capable of leading the entire development process. <br>
-📧 If you're looking for a skilled developer who can handle both _Frontend_ and _Backend_ development, and thrives in a fast-paced, agile environment, I'd love to connect! <br>
+## 💻 **About Myself**  
+- ✨ **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
+- 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM**, and **BCD** methods.  
+- 🔧 Proficient in developing robust back-end architectures and integrating APIs for seamless data exchange.  
+- 🛠️ Experienced in setting up clean and maintainable codebases with tools like **ESLint**, **Prettier**, **Stylelint**, and **Husky**.  
+- 🐳 Skilled in using **Docker** and **Kubernetes** for containerization and deployment, ensuring streamlined development processes.  
+- 🎯 Adept at leading projects from scratch to completion, with a strong focus on scalability, maintainability, and performance optimization.  
+- 🤝 Proven ability to collaborate with diverse international teams to deliver exceptional software solutions in agile environments.  
 
-    
-###  📰 𝑴𝒚 𝑹𝒆𝒔𝒖𝒎𝒆: 
- [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13XCJv9QviZr01DH96nfeHu3cMow4A2J_/view?usp=sharing) 
+---
+
+## 🌟 **Role:** Collaboration with International Teams (Japan, Thailand, Vietnam)  
+
+### **Responsibilities Include:**  
+- 🤝 **Team Collaboration**: Work with diverse international teams to deliver high-quality software solutions.  
+- 💻 **Full-Stack Development**: Design, develop, and maintain applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- 🧩 **Reusable Components**: Build and maintain reusable front-end components following **Atomic Design Principles**, **BEM**, and **BCD** methods.  
+- 🔧 **Back-End Architecture**: Develop scalable and efficient architectures using **Node.js** and **Express.js**.  
+- 🔗 **API Integration**: Seamlessly integrate APIs between front-end and back-end applications for optimal data exchange.  
+- 🛠️ **Code Quality**: Set up and enforce project architecture standards using **ESLint**, **Prettier**, **Stylelint**, **SASS**, and **Husky**.  
+- 🧐 **Code Reviews**: Perform code reviews, optimize application performance, and ensure high-quality deliverables.  
+- 🐳 **DevOps Tools**: Employ **Docker** and **Kubernetes** for containerization and orchestration to streamline development and deployment.  
+- 🎯 **Project Leadership**: Lead projects from scratch to completion, managing the entire development cycle effectively. 
 
  ## 🎓 Education:
  **University of Barishal** <br>
  𝐵.𝑆𝑐. 𝑖𝑛 𝐶𝑂𝑀𝑃𝑈𝑇𝐸𝑅 𝑆𝐶𝐼𝐸𝑁𝐶𝐸 𝐴𝑁𝐷 𝐸𝑁𝐺𝐼𝑁𝐸𝐸𝑅𝐼𝑁𝐺 <br>
- 𝙲𝙶𝙿𝙰: **3.72** / 4.00 <br>
+ 𝙲𝙶𝙿𝙰: $${\color{red} 3.72 }$$ / 4.00 <br>
  Graduation: **March - 2021**
 
  ## 🔰 Technical Skills:
@@ -56,11 +68,6 @@
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
- #### ☁️ Cloud Computing Platform:
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
  #### 📒 Database:
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -70,8 +77,11 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-  #### 🍁 Current Learning Path (🪢 DevOps 🪢):
+  #### 🐳 DevOps Tools:
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
