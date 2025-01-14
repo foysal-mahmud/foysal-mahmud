@@ -16,6 +16,7 @@
 
 
 ## 💻 **About Myself**  
+🧑🏻‍💻 A software engineer with a problem-solving mindset, capable of adapting to any technology, framework or tool to deliver effective solutions.
 - ✨ **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
 - 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 - 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM**, and **BCD** methods.  
