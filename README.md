@@ -16,30 +16,45 @@
 
 
 ## 💻 **About Myself**  
-🧑🏻‍💻 A software engineer with a problem-solving mindset, capable of adapting to any technology, framework or tool to deliver effective solutions.
-- ✨ **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
+🧑🏻‍💻 A software engineer with a problem-solving mindset, capable of adapting to any technology, framework, or tool to deliver effective solutions.
+
+### ✨ Experience & Expertise
+
+- **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
 - 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 - 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM**, and **BCD** methods.  
 - 🔧 Proficient in developing robust back-end architectures and integrating APIs for seamless data exchange.  
 - 🛠️ Experienced in setting up clean and maintainable codebases with tools like **ESLint**, **Prettier**, **Stylelint**, and **Husky**.  
-- 🐳 Skilled in using **Docker** and **Kubernetes** for containerization and deployment, ensuring streamlined development processes.  
+- 🐳 Basic knowledge of **Docker** and **Kubernetes** for containerization and understanding deployment pipelines.  
 - 🎯 Adept at leading projects from scratch to completion, with a strong focus on scalability, maintainability, and performance optimization.  
 - 🤝 Proven ability to collaborate with diverse international teams to deliver exceptional software solutions in agile environments.  
 
 ---
 
-## 🌟 **Role:** Collaboration with International Teams (Japan, Thailand, Vietnam)  
+## 🌟 **Role:** 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐓𝐞𝐚𝐦𝐬 
+#### 👨‍💻 Position: Senior Frontend Developer
+
 
 ### **Responsibilities Include:**  
-- 🤝 **Team Collaboration**: Work with diverse international teams to deliver high-quality software solutions.  
-- 💻 **Full-Stack Development**: Design, develop, and maintain applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-- 🧩 **Reusable Components**: Build and maintain reusable front-end components following **Atomic Design Principles**, **BEM**, and **BCD** methods.  
-- 🔧 **Back-End Architecture**: Develop scalable and efficient architectures using **Node.js** and **Express.js**.  
-- 🔗 **API Integration**: Seamlessly integrate APIs between front-end and back-end applications for optimal data exchange.  
-- 🛠️ **Code Quality**: Set up and enforce project architecture standards using **ESLint**, **Prettier**, **Stylelint**, **SASS**, and **Husky**.  
-- 🧐 **Code Reviews**: Perform code reviews, optimize application performance, and ensure high-quality deliverables.  
-- 🐳 **DevOps Tools**: Employ **Docker** and **Kubernetes** for containerization and orchestration to streamline development and deployment.  
-- 🎯 **Project Leadership**: Lead projects from scratch to completion, managing the entire development cycle effectively. 
+- 🤝 Cross-Cultural Collaboration: Work closely with diverse international teams, especially Japanese collaborators, to deliver high-quality, user-focused software solutions.
+
+- 💻 Frontend Leadership: Lead the design and development of responsive, scalable and high-performing frontend applications using React.js and TypeScript.
+
+- 🧩 Component Architecture: Build and maintain reusable UI components based on Atomic Design Principles, BEM and BCD methodologies, ensuring consistency and scalability across the application.
+
+- 🎨 UI/UX Implementation: Translate complex design systems into elegant, maintainable frontend code with pixel-perfect accuracy.
+
+- 🔗 API Integration: Seamlessly integrate RESTful APIs and handle dynamic data rendering with efficient state management using Redux/Context API.
+
+- 🛠️ Code Quality & Standards: Establish and enforce frontend coding standards using tools like ESLint, Prettier, Stylelint, SASS and Husky for a clean and maintainable codebase.
+
+- 🧐 Code Reviews & Mentorship: Conduct regular code reviews, offer guidance to junior developers and ensure performance optimization and best practices.
+
+- 📦 Version Control & CI/CD: Collaborate via Git workflows and contribute to smooth CI/CD pipelines in team environments.
+
+- 🐳 Basic DevOps Knowledge: Familiarity with Docker and Kubernetes for understanding deployment and containerized environments.
+
+- 🎯 Project Leadership: Lead projects from scratch to completion, managing the entire development cycle effectively.
 
  ## 🎓 Education:
  **University of Barishal** <br>
@@ -51,7 +66,6 @@
  #### 🔖 Programming Language:
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   #### 📓 Front-end Technology:
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -83,9 +97,6 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
   ## 📜 Vendor Certification:
   **AWS Certified Cloud Practitioner** <br>
