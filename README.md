@@ -12,14 +12,14 @@
 
 ## 💻 **About Myself**  
 # 🧑🏻‍💻 Md Foysal Mahmud — Senior Software Engineer
-Passionate about solving complex problems through clean and scalable code. With over 4 years of experience in frontend development, I specialize in building high-quality, maintainable user interfaces for global clients in the fintech, utility, and enterprise domains.
+Passionate about solving complex problems through clean and scalable code. With over 4 years of experience in frontend development, I specialize in building high-quality, maintainable user interfaces for global clients in the fintech, utility and enterprise domains.
 
 
 ### ✨ Experience & Expertise:
 
 - **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
 - 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with Vue.js and Next.js.  
-- 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM**, and **BCD** methods.  
+- 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM** and **BCD** methods.  
 - 🔧 Proficient in developing robust back-end architectures and integrating APIs for seamless data exchange.  
 - 🛠️ Experienced in setting up clean and maintainable codebases with tools like **ESLint**, **Prettier**, **Stylelint** and **Husky**.  
 - 🐳 Basic knowledge of **Docker** and **Kubernetes** for containerization and understanding deployment pipelines.  
@@ -93,8 +93,8 @@ Passionate about solving complex problems through clean and scalable code. With 
  ## 🎓 Education:
  **University of Barishal** <br>
  𝐵.𝑆𝑐. 𝑖𝑛 𝐶𝑂𝑀𝑃𝑈𝑇𝐸𝑅 𝑆𝐶𝐼𝐸𝑁𝐶𝐸 𝐴𝑁𝐷 𝐸𝑁𝐺𝐼𝑁𝐸𝐸𝑅𝐼𝑁𝐺 <br>
- 𝙲𝙶𝙿𝙰: $${\color{red} 3.72 }$$ / 4.00 <br>
- Graduation: **March - 2021**
+CGPA: <b> 3.72</b> / 4.00 <br>
+Graduation: **March - 2021**
 
  ## 🔰 Technical Skills:
  #### 🔖 Programming Language:
