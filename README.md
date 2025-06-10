@@ -115,7 +115,7 @@ Graduation: **March - 2021**
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
- ### #### 🧪 **Testing Tools**
+ #### 🧪 Testing Tools:
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -153,7 +153,7 @@ Graduation: **March - 2021**
   𝐷𝑎𝑡𝑒: 𝗝𝘂𝗹𝘆 - 𝟮𝟬𝟮𝟭 <br><br>
 
   > [!NOTE]
-> I cannot disclose the technology or business requirements for my projects as they are proprietary to **BJIT**.
+> I cannot disclose the technology or business requirements for my projects as they are proprietary to **BJIT** or **WSD**.
 
 > [!IMPORTANT]  
 > 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
