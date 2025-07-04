@@ -138,7 +138,6 @@ Graduation: **March - 2021**
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   ## 📜 Vendor Certification:
   **AWS Certified Cloud Practitioner** <br>
@@ -154,7 +153,3 @@ Graduation: **March - 2021**
 
   > [!NOTE]
 > I cannot disclose the technology or business requirements for my projects as they are proprietary to **BJIT** or **WSD**.
-
-> [!IMPORTANT]  
-> 𝗡𝗼𝘁𝗲 𝗥𝗲𝗴𝗮𝗿𝗱𝗶𝗻𝗴 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆:
-> Please note that my GitHub profile may appear empty or lacking in activity. This is primarily due to the fact that my current company, **BJIT**, utilizes different **GitHub** and **GitLab** accounts, which are associated with their _email address_. Additionally, for certain projects, we utilize BJIT's internal *Git-Gerrit* for source code management to ensure security and compliance.
