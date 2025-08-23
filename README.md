@@ -17,7 +17,7 @@ Passionate about solving complex problems through clean and scalable code. With 
 
 ### ✨ Experience & Expertise:
 
-- **4+ Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
+- **5 Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
 - 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with Vue.js and Next.js.  
 - 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM** and **BCD** methods.  
 - 🔧 Proficient in developing robust back-end architectures and integrating APIs for seamless data exchange.  
