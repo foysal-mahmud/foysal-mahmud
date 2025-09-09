@@ -12,19 +12,18 @@
 
 ## 💻 **About Myself**  
 # 🧑🏻‍💻 Md Foysal Mahmud — Senior Software Engineer
-Passionate about solving complex problems through clean and scalable code. With over 4 years of experience in frontend development, I specialize in building high-quality, maintainable user interfaces for global clients in the fintech, utility and enterprise domains.
+Passionate about solving complex problems through clean and scalable code. With over 5 years of experience in frontend development, I specialize in building high-quality, maintainable user interfaces for global clients in the fintech, utility and enterprise domains.
 
 
-### ✨ Experience & Expertise:
+### ✨ Experience & Expertise  
 
-- **5 Years of Professional Experience** in building and delivering high-quality web applications using modern technologies.  
-- 🚀 _Highly skilled_ in **full-stack development** using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with Vue.js and Next.js.  
-- 🌐 Expertise in designing scalable front-end architectures using **Atomic Design Principles**, **BEM** and **BCD** methods.  
-- 🔧 Proficient in developing robust back-end architectures and integrating APIs for seamless data exchange.  
-- 🛠️ Experienced in setting up clean and maintainable codebases with tools like **ESLint**, **Prettier**, **Stylelint** and **Husky**.  
-- 🐳 Basic knowledge of **Docker** and **Kubernetes** for containerization and understanding deployment pipelines.  
-- 🎯 Adept at leading projects from scratch to completion, with a strong focus on scalability, maintainability and performance optimization.  
-- 🤝 Proven ability to collaborate with diverse international teams to deliver exceptional software solutions in agile environments.  
+- **5 Years of Professional Experience** in building modern, high-quality web applications with a strong focus on frontend development.  
+- 🚀 Skilled in **React.js, Vue.js, Next.js, and TypeScript**, creating scalable and maintainable UIs.  
+- 🧩 Experienced with **Directus CMS**, building structured custom components and integrating them seamlessly with React applications.  
+- 🌐 Expertise in **frontend architecture** using **Atomic Design Principles**, **BEM**, and **BCD** methodologies for reusable, well-structured code.  
+- 🧪 Testing expertise: **Vitest** (unit), **Cypress** (end-to-end), and **integration/snapshot testing**.  
+- 🛠️ Strong focus on clean and maintainable codebases, using **ESLint**, **Prettier**, **Stylelint**, and **Husky**.  
+- 🤝 Proven ability to collaborate with international teams (Japan & Germany) and deliver impactful frontend solutions in agile environments.  
 
 ---
 
