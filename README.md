@@ -1,18 +1,21 @@
 ### Hey 👋, This is Foysal Mahmud
 
 ### 📫 Contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foysalmahmud.swe@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foysal.mahmud.swe.bd@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/foysal-mahmud)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/foysal__mahmud_?igsh=MXV2d3F0cDNvZTcyeg==)
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/pKFXKxC9OHCw)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.linkedin.com/in/md-foysal-mahmud/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801402911733)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_foysalMahmud)
 
 
 ## 💻 **About Myself**  
 # 🧑🏻‍💻 Md Foysal Mahmud — Senior Software Engineer
-Passionate about solving complex problems through clean and scalable code. With over 5 years of experience in frontend development, I specialize in building high-quality, maintainable user interfaces for global clients in the fintech, utility and enterprise domains.
+Software Engineer with a problem-solving mindset, adaptable to any technology, framework or tool to deliver effective
+solutions. With 5 years of experience, I build scalable, maintainable UIs using React.js, Vue.js, Next.js, TypeScript and
+Vuetify. Proficient in Atomic Design Principle and BEM methodology, I focus on reusable components, API integration and
+performance. Skilled in unit, snapshot and integration testing, I ensure robust, reliable apps. I collaborate with global
+teams to deliver high-quality, user-centric frontend solutions.
 
 
 ### ✨ Experience & Expertise  
@@ -41,7 +44,6 @@ Passionate about solving complex problems through clean and scalable code. With 
 - 🧪 Implemented comprehensive testing strategies:
   - Unit Testing → **Vitest**
   - Snapshot Testing  
-  - E2E Testing → **Cypress**
   - Integration Testing
 - 🔌 Integrated APIs involving **high-volume financial data**, with a focus on performance, accuracy and secure handling.
 - 👥 Worked closely with **cross-functional German teams** to deliver secure and maintainable solutions for stock trading and financial operations.
@@ -49,7 +51,7 @@ Passionate about solving complex problems through clean and scalable code. With 
 ---
 
 ### 🏢 Senior Software Engineer — BJIT Group *(Japan Head Office)*  
-📍 Dhaka, Bangladesh | 🗓️ April 2021 – May 2025  
+📍 Dhaka, Bangladesh | 🗓️ April 2021 – May 2025 | **🎯 4 Years**
 
 > 🔹 **About BJIT:**  
 > [BJIT](https://www.bjitgroup.com) is a global IT service provider with **8 international branches** in Japan, USA, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh. With **750+ engineers**, BJIT specializes in delivering **offshore, onshore, and nearshore development** solutions for global enterprises.
