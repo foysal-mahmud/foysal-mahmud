@@ -38,15 +38,22 @@ teams to deliver high-quality, user-centric frontend solutions.
 > 🔹 **About WSD:**  
 > [WSD](https://www.wsd.com) is a leading technology company backed by Bowmark Capital, a prominent U.K. private equity firm. WSD specializes in **SaaS-based solutions** for structured products and OTC derivatives. The platform streamlines **legal, marketing, and investor documentation** and offers **workflow automation**, **data lifecycle management** and **integration with financial portals**.
 
-**🤝 Role: Collaboration with German Teams**
+### Role: Frontend Developer  
+**Environment:** International collaboration with German Teams  
 
-- 🏦 Developed large-scale banking applications using **Vue.js** and **Vuetify**, focusing on performance, accessibility and responsiveness in the **fintech** domain.
-- 🧪 Implemented comprehensive testing strategies:
-  - Unit Testing → **Vitest**
-  - Snapshot Testing  
-  - Integration Testing
-- 🔌 Integrated APIs involving **high-volume financial data**, with a focus on performance, accuracy and secure handling.
-- 👥 Worked closely with **cross-functional German teams** to deliver secure and maintainable solutions for stock trading and financial operations.
+#### 【Job Summary & Description】
+- Designed and implemented frontend system architecture for a high-performance banking and share market platform, ensuring scalability, maintainability and smooth user interaction with large datasets.
+- Developed responsive web applications using Vue.js and Vuetify, including dashboard, favourite list, subscription management, and dynamic product filtering with infinite scroll for large-scale data handling.
+- Built reusable and modular CMS components integrated with Directus CMS, standardizing UI elements and improving development consistency across multiple projects.
+- Implemented an event tracking system to log detailed user interactions and behavioral data, supporting analytics-driven product decisions.
+- Set up complete frontend infrastructure from scratch, including Jenkins, GitHub Actions, ESLint, Prettier, SonarQube and custom NPM registry publishing for reusable components and streamlined project delivery.
+
+
+#### 【Major Achievement】
+- Designed a scalable frontend architecture and reusable component system published to a private NPM registry, enabling faster onboarding and consistent development across teams.
+- Optimized rendering performance with virtualized and infinite scrolling, ensuring smooth data visualization for high-volume APIs.
+- Built a comprehensive analytics tracking framework to capture page views and user activity events, providing actionable insights for product optimization.
+- Successfully established end-to-end project setup including CI/CD pipelines (Jenkins, GitHub Actions), code quality enforcement (SonarQube), and automated deployment workflows for continuous integration and delivery.
 
 ---
 
@@ -56,15 +63,23 @@ teams to deliver high-quality, user-centric frontend solutions.
 > 🔹 **About BJIT:**  
 > [BJIT](https://www.bjitgroup.com) is a global IT service provider with **8 international branches** in Japan, USA, Sweden, Finland, Netherlands, Singapore, Thailand, and Bangladesh. With **750+ engineers**, BJIT specializes in delivering **offshore, onshore, and nearshore development** solutions for global enterprises.
 
-**🤝 Role: Collaboration with Japanese Teams (3+ Years)**
 
-- 🧠 Used **Cursor AI** for intelligent development workflows and **PerfectPixel** for pixel-perfect design implementation.
-- ⚛️ Built and maintained responsive UIs using **React.js**, **Next.js** and modern **TypeScript**.
-- 🧩 Created reusable components using **Atomic Design**, **BEM** and **BCD** methodologies for scalable frontend architecture.
-- 🔗 Integrated frontend with backend APIs for real-time and smooth data handling.
-- 🎯 Maintained code consistency and quality using tools like **ESLint**, **Prettier**, **Stylelint**, **SASS** and **Husky**.
-- 📈 Led frontend projects end-to-end, from planning to deployment, ensuring optimal performance and maintainability.
+### Role: Frontend Developer  
+**Environment:** International collaboration with Japanese Teams  
 
+#### 【Job Summary & Description】
+- Frontend developer with 4 years of experience collaborating directly with Japanese development teams, building scalable and maintainable systems using React.js, Next.js, and TypeScript.
+- Designed and implemented reusable frontend architectures using Atomic Design Principles, BEM, and BCD methodologies, ensuring consistency, modularity, and high maintainability across large-scale projects.
+- Maintained code quality and design consistency through ESLint, Prettier, Stylelint, and SASS, adhering to modern frontend development and clean code practices.
+- Collaborated closely with Japanese designers, PMs, and engineers, effectively bridging communication and cultural differences while aligning on development workflows and delivery timelines.
+- Successfully adapted to Japanese development methodologies and work culture, ensuring smooth communication, precision in execution, and respect for process-oriented collaboration.
+
+
+#### 【Major Achievements】
+- Developed custom, security-focused UI components (QR Scanner, Barcode Reader) from scratch for banking applications, ensuring compliance with strict financial security and data protection standards.
+- Delivered pixel-perfect user interfaces by utilizing PerfectPixel by WellDoneCode, maintaining flawless design precision while working with Japanese UI/UX design teams.
+- Built high-performance custom UI elements without external libraries using pure CSS, demonstrating deep understanding of frontend fundamentals and strong problem-solving ability.
+- Recognized for maintaining exceptional quality, punctuality, and discipline in project delivery—reflecting successful long-term collaboration within Japanese engineering culture.
 
 
 ## 🚀 **Tech Stack & Tools**
