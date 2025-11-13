@@ -20,13 +20,14 @@ teams to deliver high-quality, user-centric frontend solutions.
 
 ### ✨ Experience & Expertise  
 
-- **5 Years of Professional Experience** in building modern, high-quality web applications with a strong focus on frontend development.  
-- 🚀 Skilled in **React.js, Vue.js, Next.js, and TypeScript**, creating scalable and maintainable UIs.  
-- 🧩 Experienced with **Directus CMS**, building structured custom components and integrating them seamlessly with React applications.  
-- 🌐 Expertise in **frontend architecture** using **Atomic Design Principles**, **BEM**, and **BCD** methodologies for reusable, well-structured code.  
-- 🧪 Testing expertise: **Vitest** (unit), **Cypress** (end-to-end), and **integration/snapshot testing**.  
-- 🛠️ Strong focus on clean and maintainable codebases, using **ESLint**, **Prettier**, **Stylelint**, and **Husky**.  
-- 🤝 Proven ability to collaborate with international teams (Japan & Germany) and deliver impactful frontend solutions in agile environments.  
+- **5 years of professional experience** in building modern, high-quality web applications with a strong focus on frontend development.  
+- **Skilled in React.js, Vue.js, Next.js, and TypeScript**, creating scalable and maintainable UIs.  
+- **Experienced with Directus CMS**, building structured custom components and integrating them seamlessly with React applications. Automated **CMS scripts** with schema and data synchronization to streamline content management workflows.  
+- **Expertise in frontend architecture** using **Atomic Design Principles**, **BEM**, and **BCD** methodologies for reusable, well-structured code.  
+- **Designed and published custom frontend libraries** to private NPM registries, enabling component reuse and faster project setup across multiple teams.  
+- **Testing expertise:** **Vitest** (unit), **Cypress** (end-to-end), and **integration/snapshot testing**.  
+- **Strong focus on clean and maintainable codebases**, using **ESLint**, **Prettier**, **Stylelint**, and **Husky**.  
+- **Proven ability to collaborate with international teams** (Japan & Germany) and deliver impactful frontend solutions in agile environments.
 
 ---
 
