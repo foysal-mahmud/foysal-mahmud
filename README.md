@@ -29,8 +29,19 @@ Full Stack JavaScript Developer with a problem-solving mindset, comfortable on b
 
 ## 🌍 **Work Experience**
 
+### 🏢 Senior Software Developer — HFM  
+📍 Kuala Lumpur, Malaysia | 🗓️ May 2026 – Present  
+
+> 🔹 **About HFM:**  
+> [HFM](hfm.com/int/en/) is a regulated, licensed multi-asset broker providing trading services across forex, CFDs, and future markets for retail and institutional clients.
+
+### Role: Senior Frontend Developer 
+**Environment:** International collaboration with Malaysia and Cyprus Teams  
+
+---
+
 ### 🏢 Software Engineer (L3) — WSD *(London Head Office)*  
-📍 Dhaka, Bangladesh | 🗓️ June 2025 – Present  
+📍 Dhaka, Bangladesh | 🗓️ June 2025 – April 2026 | **🎯 1 Year**
 
 > 🔹 **About WSD:**  
 > [WSD](https://www.wsd.com) is a leading technology company backed by Bowmark Capital, a prominent U.K. private equity firm. WSD specializes in **SaaS-based solutions** for structured products and OTC derivatives. The platform streamlines **legal, marketing, and investor documentation** and offers **workflow automation**, **data lifecycle management** and **integration with financial portals**.
